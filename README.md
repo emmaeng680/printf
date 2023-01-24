@@ -1,8 +1,6 @@
 **Team Project "printf"**
 # 0x11. C - printf
-Foundations - Low-level programming & Algorithm ― Hatching out
-by Julien Barbier, co-founder at Holberton School.
-Project to be done in teams of 2 people (your team: Emmanuel Oppong and Linda Boateng)
+**Team: Emmanuel Oppong and Linda Boateng**
 
 ## Background Context
 * Write your own `printf` function.
